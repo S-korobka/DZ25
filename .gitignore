@@ -1,0 +1,6 @@
+/.idea/
+target/
+.allure
+/qa-ui/.allure
+qa-ui/target
+
